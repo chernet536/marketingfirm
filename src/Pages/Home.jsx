@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import './Style.css'
 import { Button } from './Button';
 import { Link, useLocation } from 'react-router-dom';
-import Logo from '../assets/logo.PNG'
+//import Logo from '../assets/logo.PNG'
 import './Navbar2.css';
 import Dropdown from './Dropdown';
 import Service from './Service';
